@@ -7,6 +7,6 @@ app.get('/', function(req, res){
 });
 
 
-app.listen(8080, function(){
+app.listen(3500, function(){
 	console.log('testapp is running at localhost:8080');
 });
